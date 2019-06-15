@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68574" started-at="2019-06-15T20:31:13Z" finished-at="2019-06-15T20:32:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68574" started-at="2019-06-15T20:31:13Z" finished-at="2019-06-15T20:32:21Z">
+      <class name="VSSE.Iphone.SearchTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:VSSE.Iphone.SearchTest@91161c7]" name="setup" is-config="true" duration-ms="2127" started-at="2019-06-15T20:31:13Z" finished-at="2019-06-15T20:31:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f1AssertUrl()[pri:0, instance:VSSE.Iphone.SearchTest@91161c7]" name="f1AssertUrl" duration-ms="65702" started-at="2019-06-15T20:31:15Z" finished-at="2019-06-15T20:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1AssertUrl -->
+        <test-method status="PASS" signature="f2AssertNumber()[pri:0, instance:VSSE.Iphone.SearchTest@91161c7]" name="f2AssertNumber" duration-ms="733" started-at="2019-06-15T20:32:21Z" finished-at="2019-06-15T20:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2AssertNumber -->
+      </class> <!-- VSSE.Iphone.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
